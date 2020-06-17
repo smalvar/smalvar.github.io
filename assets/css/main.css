@@ -42,7 +42,7 @@
 .algorithms__bkgrnd {
   background-image: url("../images/resume.jpg"); }
 
-.contact__bkgrnd {
+.personal__bkgrnd {
   background-image: url("../images/personal.jpg"); }
 
 .glitch__img:nth-child(n + 2) {
@@ -307,9 +307,9 @@
     background-size: cover; }
   #homepage .projects:hover {
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.6); }
-  #homepage .contact a {
+  #homepage .personal a {
     margin-left: 10px; }
-  #homepage .contact a:hover {
+  #homepage .personal a:hover {
     color: #f46036; }
   #homepage .algorithms {
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.9);
@@ -319,12 +319,12 @@
   #homepage .algorithms:hover {
     background-color: #443c72;
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.6); }
-  #homepage .contact {
-    background-image: url("/assets/images/contact.jpg");
+  #homepage .personal {
+    background-image: url("/assets/images/personal.jpg");
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.9);
     transition: box-shadow 0.5s linear;
     background-size: cover; }
-  #homepage .contact:hover {
+  #homepage .personal:hover {
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.6); }
   #homepage .profile_picture {
     border-radius: 35%; }
@@ -843,7 +843,7 @@ button.fill:hover:before {
   top: 0;
   right: 0; }
 
-.contact-border {
+.personal-border {
   top: 0;
   left: -1px; }
 
