@@ -7,13 +7,13 @@ projects:
 about:
   url: /about
   heading: Me
-  words: Hi, I'm a programmer
+  words: Hi, I'm a scientist
   class: m5 about
   border: about
 resume:
   url: /resume
   heading: Resume
-  words: Check out or download my resume
+  words: Check out my resume
   class: m6 algorithms
   border: algorithms
 personal:
@@ -21,4 +21,4 @@ personal:
   heading: Personal
   words: What I do in my free time
   class: m6 personal
-  border: personal
+  border: contact
