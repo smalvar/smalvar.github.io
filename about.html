@@ -25,28 +25,29 @@ author: Marie Curie
     </div>
   </div>
   <h3 class="heading skills_heading center-align">Publications:</h3>
-  <div class="skills_wrapper">
-      {% for tech_group in site.data.skills %}
-        <div class="skill_group">
-          <div class="col m4 s6">
-            <h4 class="heading">{{tech_group.name}}:</h4>
-            <div class="skills">
-              {% for tech in tech_group.skills %}
-              <i class="about_skill_icon devicon-{{tech.class}}"></i><span class="skill_names">{{tech.skill_name}}</span><br/>
-              {% endfor %}
-            </div>
-          </div>
-        </div>
-      {% endfor %}
-  </div>
-</div>
 
 <div class="container about_section">
   <div class="row">
-    <h2 class="about_paragraph">2020:</h3>
+    <h2 class="about_paragraph">2020</h3>
     <div class="about_paragraph">
       <p>
-        TESTE
+        <ul class="list">
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Consectetur adipiscing elit</li>
+  <li>Integer molestie lorem at massa</li>
+  <li>Facilisis in pretium nisl aliquet</li>
+  <li>Nulla volutpat aliquam velit
+    <ul>
+      <li>Phasellus iaculis neque</li>
+      <li>Purus sodales ultricies</li>
+      <li>Vestibulum laoreet porttitor sem</li>
+      <li>Ac tristique libero volutpat at</li>
+    </ul>
+  </li>
+  <li>Faucibus porta lacus fringilla vel</li>
+  <li>Aenean sit amet erat nunc</li>
+  <li>Eget porttitor lorem</li>
+</ul>
       </p>
       <p>
         I always looking for new projects, so feel free to browse the <a class="about_me_links" href="/projects">projects</a> 
