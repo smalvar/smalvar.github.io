@@ -16,9 +16,9 @@ resume:
   words: Check out or download my resume
   class: m6 algorithms
   border: algorithms
-contact:
+personal:
   url: /personal
   heading: Personal
   words: What I do in my free time
-  class: m6 contact
-  border: contact
+  class: m6 personal
+  border: personal
