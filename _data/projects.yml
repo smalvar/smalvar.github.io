@@ -15,13 +15,13 @@
   title: (Udacity) Reviewer of machine learning
   url: 
   github_url: 
-  description: Reviewer of more than 20 projects of several Nanodegrees
+  description: Reviewer of more than 20 projects of several Nanodegrees  
   technologies: [
                   
                 ]
   cover: /assets/images/udacity2.png
   images: [
-    '/assets/images/udacity.png'
+    '/assets/images/udacity2.png'
   ]
 - id: 4
   title: (Awari) Mentorship of machine learning
