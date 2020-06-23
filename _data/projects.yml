@@ -1,8 +1,24 @@
+- id: 1
+  title: Courses
+  url: https://cursos.alura.com.br/user/malvar-sara
+  github_url: 
+  description:  Fraud Detection and Client Segmentation courses created for Alura using supervised and unsupervised learning techniques.
+  technologies: [
+                  
+                ]
+  cover: /assets/images/project_covers/alura.png
+  images: [
+    '/assets/images/project_images/alura2.png',
+  ]
+
+
 - id: 2
-  title: Fraud Detection
-  url: https://www.alura.com.br/curso-online-modelos-preditivos-deteccao-fraude
-  github_url: https://github.com/smalvar/Detectando-Fraude
-  description:  Fraud detection course created for Alura using supervised and unsupervised learning techniques.
+  title: Machine Learning for FWI
+  url: 
+  github_url: 
+  description:  The main objective of the STMI project (Software Technologies for Modeling and Inversion) is to develop a set of software technologies for numerical simulation and solution of inversion problems. These technologies will be able to reduce the time required for the development of simulation and inversion codes from years to days. High-level programming languages are designed and implemented that will enable geophysicists to use their specific knowledge of the area to quickly develop and evaluate new algorithms for obtaining images of geologically challenging regions.      </p>
+      I work specifically with machine learning models to perform FWI (Full Waveform Inversion) a high-resolution seismic imaging technique that is based on using the entire content of seismic traces for extracting physical parameters of the medium sampled by seismic waves.      </p>
+
   technologies: [
                   
                 ]
@@ -12,10 +28,11 @@
   ]
 
 - id: 3
-  title: Stack Overflow Clone
+  title: Active Fluids
   url: https://dbc-hackoverflow.herokuapp.com/
   github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  description:        This project aims to present a study regarding the several fundamental aspects of complex particulate suspensions. We have been exploring the physics of active suspensions, composed of microorganisms, proteins etc. For this purpose, first we studied the behavior of a nematode suspension. Rheological experiments led us to identify anomalous behaviors and to propose a rheological model. In addition, we also work with Immersed Boundary simulations to identify the curvature characteristics that lead to the best propulsion efficiency.
+        We are currently working with suspensions of methanotrophic bacteria and algae that consume carbon dioxide. These bacteria are responsible for the production of biopolymers, while algae produce biomass. Although the methodology for extracting these biomaterials is known, these processes still require a lot of time and cost. For this reason, we believe that rheological studies can help improve the performance of the process.
   technologies: [
                   html5-plain,
                   css3-plain-wordmark,
@@ -31,10 +48,15 @@
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
 - id: 4
-  title: ShootThingsGame
-  url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+  title: Socioeconomics Characteristics of COVID-19
+  url: 
+  github_url: 
+  description: The construction of public policies to face the global pandemic of COVID-19 brings significant challenges, especially for countries like Brazil, which live with great social and economic inequality. The adoption of quarantine and social distancing practices, which have led to promising results in European and Asian countries, has been implemented in Brazil. However, the result is not very promising due to the country's territorial extension and its severe effects on the individual income of the population and the consequent increase in social problems faced by the country.       </p>
+This project can provide subsidies to public managers for the elaboration of effective policies to control the pandemic and to reduce its effects, in view of the specificities of the population. The models will be scalable, being able to accommodate macro and micro regions, as well as the interrelation between them. For that, we integrate the following models: 
+    Control Models(SIR based), 
+    Regional Contingency Optimization Models (topology based), 
+    Propagation Models (heat conduction based) and 
+    Machine Learning (clusterization based).
   technologies: [
                   html5-plain,
                   css3-plain-wordmark,
