@@ -6,7 +6,7 @@
   technologies: [
                   
                 ]
-  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
+  cover: /assets/images/alura3.png
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
     '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
@@ -21,7 +21,7 @@
   technologies: [
                   
                 ]
-  cover: /assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/udacity.png
   images: [
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
@@ -33,7 +33,7 @@
   technologies: [
                   
                 ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
+  cover: /assets/images/awari.png
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
