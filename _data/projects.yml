@@ -13,7 +13,7 @@
 
 
 - id: 2
-  title: Machine Learning for FWI
+  title: Machine Learning for Geophysics
   url: 
   github_url: 
   description:  The main objective of the STMI project (Software Technologies for Modeling and Inversion) is to develop a set of software technologies for numerical simulation and solution of inversion problems. These technologies will be able to reduce the time required for the development of simulation and inversion codes from years to days. High-level programming languages are designed and implemented that will enable geophysicists to use their specific knowledge of the area to quickly develop and evaluate new algorithms for obtaining images of geologically challenging regions.      </p>
