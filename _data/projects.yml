@@ -18,9 +18,9 @@
       I work specifically with machine learning models to perform FWI (Full Waveform Inversion) a high-resolution seismic imaging technique that is based on using the entire content of seismic traces for extracting physical parameters of the medium sampled by seismic waves.      </p>
 
   technologies: []
-  cover: /assets/images/project_covers/alura.png
+  cover: /assets/images/project_covers/FWI.png
   images: [
-    '/assets/images/project_images/alura2.png',
+    '/assets/images/project_images/FWI.png',
   ]
 
 - id: 3
