@@ -1,5 +1,5 @@
 - id: 2
-  title: Machine Learning Course - Alura
+  title: (Alura) Instructor of machine learning
   url: https://cursos.alura.com.br/user/malvar-sara
   github_url: https://cursos.alura.com.br/user/malvar-sara
   description: Fraud Prediction and Cliente Segmentation courses produced for Alura using supervised and unsupervised learning.
@@ -12,7 +12,7 @@
   ]
 
 - id: 3
-  title: Machine learning projects reviewer (Udacity)
+  title: (Udacity) Reviewer of machine learning
   url: 
   github_url: 
   description: Reviewer of more than 20 projects of several Nanodegrees including: Pneumonia Detection from Chest X Rays, Activity Aware Pulse Rate Algorith and others.
@@ -24,7 +24,7 @@
     '/assets/images/udacity.png'
   ]
 - id: 4
-  title: Data science mentorship (Awari)
+  title: (Awari) Mentorship of machine learning
   url: 
   github_url: 
   description: Provide 30 minutes mentorship once a week for students from data science course from Awari.
