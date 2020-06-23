@@ -20,9 +20,22 @@
   technologies: [
                   
                 ]
-  cover: /assets/images/project_covers/unet.jpg
+  cover: /assets/images/project_covers/unet2.jpg
   images: [
     '/assets/images/project_covers/unet.jpg'
+  ]
+  
+ - id: 4
+  title: Active Fluids
+  url: 
+  github_url: 
+  description:        This project aims to present a study regarding the several fundamental aspects of complex particulate suspensions. We have been exploring the physics of active suspensions, composed of microorganisms, proteins etc. For this purpose, first we studied the behavior of a nematode suspension. Rheological experiments led us to identify anomalous behaviors and to propose a rheological model. In addition, we also work with Immersed Boundary simulations to identify the curvature characteristics that lead to the best propulsion efficiency.
+        We are currently working with suspensions of methanotrophic bacteria and algae that consume carbon dioxide. These bacteria are responsible for the production of biopolymers, while algae produce biomass. Although the methodology for extracting these biomaterials is known, these processes still require a lot of time and cost. For this reason, we believe that rheological studies can help improve the performance of the process.
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/hack-overflow-cover.png
+  images: [
+    '/assets/images/project_covers/hack-overflow-cover.png'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
