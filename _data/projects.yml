@@ -6,9 +6,9 @@
   technologies: [
                  
                 ]
-  cover: /assets/images/project_cover/alura.png
+  cover: /assets/images/project_covers/alura.png
   images: [
-    '/assets/images/project_cover/alura.png'
+    '/assets/images/project_covers/alura.png'
   ]
 
 - id: 3
@@ -20,9 +20,9 @@
   technologies: [
                   
                 ]
-  cover: /assets/images/FWI.png
+  cover: /assets/images/project_covers/unet.jpg
   images: [
-    '/assets/images/FWI.png'
+    '/assets/images/project_covers/unet.jpg'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
