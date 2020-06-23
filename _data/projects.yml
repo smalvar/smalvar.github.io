@@ -15,7 +15,7 @@
   title: (Udacity) Reviewer of machine learning
   url: 
   github_url: 
-  description: Reviewer of more than 20 projects of several Nanodegrees  
+  description: Reviewer of more than 20 projects of several Nanodegrees including AI for Healthcare and Deep Learning Engineer.
   technologies: [
                   
                 ]
@@ -25,8 +25,8 @@
   ]
 - id: 4
   title: (Awari) Mentorship of machine learning
-  url: 
-  github_url: 
+  url: https://awari.com.br/mentores/#mentores-ds
+  github_url: https://awari.com.br/mentores/#mentores-ds
   description: Provide 30 minutes mentorship once a week for students from data science course from Awari.
   technologies: [
                   
