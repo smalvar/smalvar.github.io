@@ -15,7 +15,7 @@
   title: Machine learning projects reviewer (Udacity)
   url: 
   github_url: 
-  description: Reviewer from several nanodegrees including the following projects: Activity Aware Pulse Rate Algorithm, A/B Test Design, Analyze A/B Test Results, Analyze Survey Results, Analyzing the NYC Subway Dataset, Combining Predictive Techniques, Creditworthiness, Data Cleanup, Design an A/B test, Diamond Prices, Dog Breed Classifier, Explore Chicago Bikeshare Data, Finding Donors for CharityML, Forecasting Sales, Generate TV Scripts, Identify Customer Segments, Identify Fraud from Enron Email, Investigate a Dataset, Music SQL Database, Pneumonia Detection from Chest X-Rays, Predict Impact of New Menu, Predicting Boston Housing Prices, Predicting Catalog Demand, Visualizing Movie Data, Wrangle and Analyze Data.
+  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
   technologies: [
                   
                 ]
