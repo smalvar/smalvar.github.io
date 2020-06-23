@@ -2,21 +2,24 @@
   title: Machine Learning Course - Alura
   url: https://cursos.alura.com.br/user/malvar-sara
   github_url: https://cursos.alura.com.br/user/malvar-sara
-  description:  Fraud Detection and Client Segmentation courses created for Alura using supervised and unsupervised learning techniques.
+  description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
   technologies: [
                   
                 ]
-  cover: /assets/images/project_covers/alura.png
+  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
   images: [
-    '/assets/images/project_covers/alura.png',
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
+    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
+    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
   ]
 
 - id: 3
   title: Machine Learning Mentorship and Review - Udacity
   url: 
   github_url: 
-  description: Mentor and reviewer from the following projects from several Nanodegrees:
+  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
   technologies: [
+                  
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
   images: [
@@ -26,9 +29,9 @@
   title: Data Science Mentorship - Awari
   url: 
   github_url: 
-  description: Mentorship program from Awari to Data Science course students. Once a week, we provide 30 minutes mentorship. 
+  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
   technologies: [
-                 
+                  
                 ]
   cover: /assets/images/project_covers/shoot-things-game-cover.png
   images: [
