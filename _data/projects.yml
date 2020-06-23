@@ -12,23 +12,17 @@
   ]
 
 - id: 3
-  title: Stack Overflow Clone
-  url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  title: Machine Learning for Geophysics
+  url:
+  github_url: 
+  description: The main objective of the STMI project (Software Technologies for Modeling and Inversion) is to develop a set of software technologies for numerical simulation and solution of inversion problems. These technologies will be able to reduce the time required for the development of simulation and inversion codes from years to days. High-level programming languages are designed and implemented that will enable geophysicists to use their specific knowledge of the area to quickly develop and evaluate new algorithms for obtaining images of geologically challenging regions.      </p>
+      I work specifically with machine learning models to perform FWI (Full Waveform Inversion) a high-resolution seismic imaging technique that is based on using the entire content of seismic traces for extracting physical parameters of the medium sampled by seismic waves.   
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
+                  
                 ]
-  cover: /assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/FWI.png
   images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
+    '/assets/images/FWI.png'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
