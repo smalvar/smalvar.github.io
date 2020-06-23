@@ -6,9 +6,9 @@
   technologies: [
                  
                 ]
-  cover: /assets/images/alura2.jpg
+  cover: /assets/images/project_cove/alura.png
   images: [
-    '/assets/images/detect.png'
+    '/assets/images/project_cove/alura.png'
   ]
 
 - id: 3
