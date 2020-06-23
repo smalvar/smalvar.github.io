@@ -1,5 +1,18 @@
 - id: 2
-  title: Machine Learning Courses
+  title: Machine Learning Courses - Alura
+  url: https://cursos.alura.com.br/user/malvar-sara
+  github_url: https://cursos.alura.com.br/user/malvar-sara
+  description: Fraud Detection and Client Segmentation courses created for Alura using supervised and unsupervised learning techniques.
+  technologies: [
+                 
+                ]
+  cover: /assets/images/project_covers/alura.png
+  images: [
+    '/assets/images/project_covers/alura.png'
+  ]
+  
+  - id: 2
+  title: Machine Learning Courses - Alura
   url: https://cursos.alura.com.br/user/malvar-sara
   github_url: https://cursos.alura.com.br/user/malvar-sara
   description: Fraud Detection and Client Segmentation courses created for Alura using supervised and unsupervised learning techniques.
@@ -12,7 +25,7 @@
   ]
 
 - id: 3
-  title: Machine Learning for Geophysics
+  title: Machine Learning Mentorship and Review - Udacity
   url:
   github_url: 
   description: The main objective of the STMI project (Software Technologies for Modeling and Inversion) is to develop a set of software technologies for numerical simulation and solution of inversion problems. These technologies will be able to reduce the time required for the development of simulation and inversion codes from years to days. High-level programming languages are designed and implemented that will enable geophysicists to use their specific knowledge of the area to quickly develop and evaluate new algorithms for obtaining images of geologically challenging regions. I work specifically with machine learning models to perform FWI (Full Waveform Inversion) a high-resolution seismic imaging technique that is based on using the entire content of seismic traces for extracting physical parameters of the medium sampled by seismic waves.   
@@ -24,17 +37,6 @@
     '/assets/images/project_covers/indice.png'
   ]
   
-  title: Active Fluids
-   url: 
-   github_url: 
-   short_description: >
-     Presentation analytics tool that helps presenters capture, monitor and track the audience's emotional reaction to their content in real-time.
-   long_description: >
-     Engage me was a week long final project at <a href='devbootcamp.com'>DevBootcamp</a>. With the help of the Microsoft Cognitive Services API, my team was able to display people's emotions in real time, giving the presenter an overview of how they are doing in real time, as well as the ability to look at the audience's emotion-data after the presentation to see shifts in emotions over time.
-   technologies: It's build with HTML5, CSS, javaScript, a ruby on rails back-end, jQuery and materialize for forms and styling and Charts.js for the data-visualization. Hosted on heroku.
-   img: /assets/images/project_covers/engage-me-cover.jpeg
-#   tags: back-end Ruby-on-Rails finished javaScript jQuery charts.js materialize ajax HTML5 CSS3
-   id: 1
 #
 # - name: Tic-tac-toe
 #   url: https://tic-or-treat.herokuapp.com/
