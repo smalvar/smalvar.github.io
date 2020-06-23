@@ -8,7 +8,7 @@
                 ]
   cover: /assets/images/alura2.png
   images: [
-    '/assets/images/alura2.png'
+    '/assets/images/alura.png'
   ]
 
 - id: 3
@@ -21,7 +21,7 @@
                 ]
   cover: /assets/images/udacity2.png
   images: [
-    '/assets/images/udacity2.png'
+    '/assets/images/udacity.png'
   ]
 - id: 4
   title: Data science mentorship (Awari)
@@ -31,7 +31,7 @@
   technologies: [
                   
                 ]
-  cover: /assets/images/awari2.png
+  cover: /assets/images/awari.png
   images: [
     '/assets/images/awari2.png'
   ]
